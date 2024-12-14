@@ -1,7 +1,7 @@
 {
   "name": "airplane-scheduler",
   "version": "0.1.0",
-  "homepage": "https://sohaida-reyad.github.io/plane-scheduler/",
+  "homepage": "https://sohaida-reyad.github.io/plane-scheduler",
   "private": true,
   "dependencies": {
     "@types/react": "^18.3.12",

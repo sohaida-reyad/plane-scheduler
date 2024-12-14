@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/plane-scheduler/static/css/main.bd9b0087.css",
-    "main.js": "/plane-scheduler/static/js/main.fe084b87.js",
+    "main.js": "/plane-scheduler/static/js/main.dac24ec4.js",
     "index.html": "/plane-scheduler/index.html",
     "main.bd9b0087.css.map": "/plane-scheduler/static/css/main.bd9b0087.css.map",
-    "main.fe084b87.js.map": "/plane-scheduler/static/js/main.fe084b87.js.map"
+    "main.dac24ec4.js.map": "/plane-scheduler/static/js/main.dac24ec4.js.map"
   },
   "entrypoints": [
     "static/css/main.bd9b0087.css",
-    "static/js/main.fe084b87.js"
+    "static/js/main.dac24ec4.js"
   ]
 }

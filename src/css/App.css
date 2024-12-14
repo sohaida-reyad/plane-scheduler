@@ -1,0 +1,55 @@
+.scheduler-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  padding: 50px 300px;
+}
+
+.scheduler-header {
+  align-self: center;
+  font-weight: 700;
+  font-size: 20px;
+  padding-bottom: 20px;
+  color: midnightblue;
+}
+
+.scheduler-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.scheduler-row-command {
+  color: forestgreen;
+}
+
+.scheduler-row-input {
+  border: none;
+  border-bottom: 2px solid forestgreen;
+}
+
+.scheduler-button {
+  align-self: flex-end;
+  width: fit-content;
+  height: 35px;
+  border: none;
+  border-radius: 5px;
+  background-color: cornflowerblue;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 10px;
+}
+
+.scheduler-result {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  color: royalblue;
+}
+
+.scheduler-text-header {
+  padding-top: 10px;
+  font-weight: 600;
+}

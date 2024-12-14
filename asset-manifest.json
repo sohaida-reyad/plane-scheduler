@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plane-scheduler/static/css/main.bd9b0087.css",
+    "main.js": "/plane-scheduler/static/js/main.4cc4ff2b.js",
+    "index.html": "/plane-scheduler/index.html",
+    "main.bd9b0087.css.map": "/plane-scheduler/static/css/main.bd9b0087.css.map",
+    "main.4cc4ff2b.js.map": "/plane-scheduler/static/js/main.4cc4ff2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd9b0087.css",
+    "static/js/main.4cc4ff2b.js"
+  ]
+}
